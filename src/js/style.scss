@@ -1,0 +1,19 @@
+#clinicfinder {
+  .map-wrapper {
+    position: relative;  
+  }
+  
+} 
+
+.map-loader {
+  height: 600px;
+  background: rgba(#031639, .75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  h3 {
+    color: white;
+    opacity: .75;
+
+  }
+}

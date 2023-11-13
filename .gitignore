@@ -1,0 +1,8 @@
+node_modules
+oldgulpfile.js
+.cache
+.DS_Store
+.parcel-cache
+parcel-bundle-reports
+report.html
+stats.json

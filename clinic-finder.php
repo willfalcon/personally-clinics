@@ -2,7 +2,7 @@
 /*
   Plugin Name: Clinic Finder
   Description: Filterable Clinic Finder Plugin for pulling from shared list of clinics.
-  Version: 1.2.4
+  Version: 2.0.0
   Author: Creative Distillery
   Author URI: https://creativedistillery.com
 */
